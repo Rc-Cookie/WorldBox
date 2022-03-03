@@ -8,9 +8,6 @@
     <option name="description" value="" />
   </component>
   <component name="ExternalStorageConfigurationManager" enabled="true" />
-  <component name="KotlinCodeInsightWorkspaceSettings">
-    <option name="optimizeImportsOnTheFly" value="true" />
-  </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
